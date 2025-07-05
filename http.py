@@ -1,4 +1,3 @@
-# http.py
 import os
 import base64
 from glob import glob
